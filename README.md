@@ -7,3 +7,5 @@ The tilt angle (pitch) is obtained using MPU6050 sensor. IMU sensors usually con
 DMP stands for Digital Motion Processing. The MPU 6050 has a built-in motion processor. It processes the values from the accelerometer and gyroscope to give us accurate 3D values.
 
 Also, you will need to wait about 10 seconds before you get accurate values from the Arduino MPU 6050, after which the values will begin to stabilize. Just check out the video below to see if yours is working correctly.
+
+The Working of Balance Bot has been demonstrated in the Video Demo folder.
